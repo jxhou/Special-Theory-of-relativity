@@ -17,3 +17,22 @@ This principle of relativity was accepted (in somewhat simpler form i.e. with re
 
 All laws of nature appear to have
 expression in mathematical form, so what the principle of relativity can be understood as saying is that the equations describing a law of nature take the same mathematical form in all inertial frames of reference.
+
+Galilean Transformation:
+```
+x = x' + v t', 
+y = y', 
+z = z'
+and at the time 
+t = t'
+```
+
+The general conclusion we can draw from all this is that:  
+Newton’s Laws of motion are identical in all inertial frames of reference.
+This is the Newtonian (or Galilean) principle of relativity, and was essentially accepted by all physicists, at least until the time when Maxwell put together his famous set of equations.
+
+### Maxwell’s Equations and the Ether
+Not unexpectedly, it was anticipated that the equations Maxwell derived should also obey the above Newtonian principle of relativity in the sense that Maxwell’s equations should also be the same in all inertial frames of reference. Unfortunately, it was found that this was not the case.
+Maxwell’s equations were found to assume completely different forms in different inertial frames of reference.
+
+The ether was a substance that was supposedly the medium in which light waves were transmitted in a way something like the way in which air carries sound waves. Consequently it was believed that the behaviour of light, in particular its velocity, as measured from a frame of reference moving relative to the ether would be different from its behaviour as measured from a frame of reference stationary with respect to the ether.
