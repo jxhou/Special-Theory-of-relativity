@@ -43,6 +43,9 @@ With this picture in mind, it is clear that if the Earth moves with respect to t
 fixed frame, then we expect that their relative speed will be V1 - V2 if they are moving in the same direction, and V1 + V2 if they are moving in opposite directions. We have developed this 'intuition' based on our everyday experiences, and we have a gut feeling that it is correct.
 However, we will see below that the correct relativistic law of 'addition of velocities' is somewhat different. 
 
+### The Galilean transformation
+In Ref 3, a four-dimensional space-time coordinate system (t; x; y; z) ; which we will sometimes write as (t; ~x). And using the displacement representation of events to illustrate the Galilean transformation formulas. Neat.
+
 ### Michelson and Morley experiment:  
 There were thus several attempts to detect the presence of this hypothetical ether or to show that the speed of light was frame dependent. The most famous experiment was done in 1887 by A A Michelson and E W Morley. They used an interferometer t~ study the speed of light along different directions and at different times of the year (when the orbital velocity of the Earth pointed along different directions). They concluded that the speed of light with respect to the Earth is always the same and does not depend on the relative motion of the Earth and the light wave. This observation proved that Maxwell's equations are valid in all (inertial) frames, and that there is no need to hypothesize a medium called the ether which is at rest in one preferred frame. 
 
@@ -52,8 +55,10 @@ up with the right modification to Newtonian mechanics.
 Einstein make two postulates:
 1. All the laws of physics are the same in every inertial frame of reference. This postulate implies that there is no experiment whether based on the laws of mechanics or the laws of electromagnetism from which it is possible to determine whether or not a frame of reference is in a state of uniform motion.
 2. The speed of light is independent of the motion of its source.
+> $$c^2$$ (1)
 
 
 ## References:
 1. Lecture Notes on Special Relativity by J D Cresser, Department of Physics Macquarie University 8th August2005.  
 2. The Special Theory of Relativity by Vasant Natarajan and Diptiman Sen 
+3. Joe's Relatively Small Book of Special Relativity by Joseph Minahan
