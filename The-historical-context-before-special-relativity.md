@@ -1,4 +1,4 @@
-## The Historical Context Before the Special Theory of Relativity
+## The Historical Background of the Special Theory of Relativity
 
 ### principle of relativity
 The idea that a principle of relativity applies to the properties of the physical world is very old: it certainly predates Newton and seems to have been first stated concisely by Galileo, though some of the ideas were already around at the time of Aristotle (who apparently did not believe in the principle).
@@ -85,6 +85,39 @@ or
 
 Notes: Actually. the second postulate follows from the first since the laws of physics include Maxwell's
 equations of electro magnetism which contain the speed of light.
+
+### Summary of the history background of SR
+The special theory of relativity based on following two postulates:
+1. The laws of physics take the same form in all inertial frames, which is so called principle of relativity.
+2. The speed of light in vacuum is the same in all inertial frames.
+
+However those two postulates did not come from nowhere. Actually all the major pieces of the postulates are all in place, but simply not assembled together in meaningful way.
+
+The basic idea of the principle of relativity is as early as at least Galilean/Newtonian time. The basic concept is not different from Einstein's at all, which implies to apply to all the laws of physics. However in practice, Galilean and Newtonian relativity has only been narrowly applied to the classic Newtonian mechanics. That is the all mechanics happen in the same way in all inertial frames of reference, with respect to Galilean transformation. The principle of relativity was actually verified by the invariant of classic Newtonian mechanics using Galilean transformation. In a period of more than 200 years before SR, few physicists has doubt about the correctness of the Galilean transformation and Newtonian mechanics.
+
+Maxwell’s equations predicted that light waves should propagate at a finite speed c (about 300,000 km/s), but not sure refer to which frame of reference. The prevailing idea is that the speed of c is refer to the ether which is stationary with respect to the Newtonian absolute space (AS). The ether concept comes naturally from the logic comparison between mechanic waves such as sound and ocean wave prorogation. The fact is that the Maxwell’s equations is absolutely correct, but the assumption of ether and the absolute space was wrong. 
+
+Michelson and Morley experiment and related experiments has not been able to prove the existence of ether, and show the speed of light is alway c, not matter in what references.
+
+However the Maxwell’s equations is not invariant with Galilean transformation, which seems suggesting it does not obey the principal of relativity. More physicists think there are problem with Maxwell’s equations than Galilean transformation.
+
+The Lorentz transformation, which is the correct transformation instead of Galilean transformation, is also formulated before SR. However Lorentz formulated the transformation in such a way to just make Maxwell’s equations invariant. The formulation of r in the transformation is based on the the difference in travel times for the two arms of the Michelson interferometer. Therefore Lorentz was not clear about the significance of the transformation in physics, and still assuming the existence of ether and absolute space. 
+
+The Lorentz transformation is actually the correct transformation for the principal of relativity, which should replace the Galilean transformation, and naturally expands the principal of relativity to Maxwell's equations. However Lorentz did not realize that. Although Lorentz transformation makes Maxwell's equations invariant, it cannot resolve the conflict with Newtonian mechanics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## References:
