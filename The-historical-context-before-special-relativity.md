@@ -91,33 +91,23 @@ The special theory of relativity based on following two postulates:
 1. The laws of physics take the same form in all inertial frames, which is so called principle of relativity.
 2. The speed of light in vacuum is the same in all inertial frames.
 
-However those two postulates did not come from nowhere. Actually all the major pieces of the postulates are all in place, but simply not assembled together in meaningful way.
+However those two postulates did not come from nowhere. Actually all the major pieces of the postulates were all in place, but simply not assembled together in meaningful way.
 
 The basic idea of the principle of relativity is as early as at least Galilean/Newtonian time. The basic concept is not different from Einstein's at all, which implies to apply to all the laws of physics. However in practice, Galilean and Newtonian relativity has only been narrowly applied to the classic Newtonian mechanics. That is the all mechanics happen in the same way in all inertial frames of reference, with respect to Galilean transformation. The principle of relativity was actually verified by the invariant of classic Newtonian mechanics using Galilean transformation. In a period of more than 200 years before SR, few physicists has doubt about the correctness of the Galilean transformation and Newtonian mechanics.
 
-Maxwell’s equations predicted that light waves should propagate at a finite speed c (about 300,000 km/s), but not sure refer to which frame of reference. The prevailing idea is that the speed of c is refer to the ether which is stationary with respect to the Newtonian absolute space (AS). The ether concept comes naturally from the logic comparison between mechanic waves such as sound and ocean wave prorogation. The fact is that the Maxwell’s equations is absolutely correct, but the assumption of ether and the absolute space was wrong. 
+Maxwell’s equations predicted that light waves should propagate at a finite speed c (about 300,000 km/s), but not sure refer to which frame of reference. The prevailing idea is that the speed of c is refer to the ether which is stationary with respect to the Newtonian absolute space (AS). The ether concept comes naturally from the logic comparison with mechanic waves such as sound and ocean wave prorogation. The fact is that the Maxwell’s equations is absolutely correct, but the assumption of ether and the absolute space was wrong. 
 
 Michelson and Morley experiment and related experiments has not been able to prove the existence of ether, and show the speed of light is alway c, not matter in what references.
 
 However the Maxwell’s equations is not invariant with Galilean transformation, which seems suggesting it does not obey the principal of relativity. More physicists think there are problem with Maxwell’s equations than Galilean transformation.
 
-The Lorentz transformation, which is the correct transformation instead of Galilean transformation, is also formulated before SR. However Lorentz formulated the transformation in such a way to just make Maxwell’s equations invariant. The formulation of r in the transformation is based on the the difference in travel times for the two arms of the Michelson interferometer. Therefore Lorentz was not clear about the significance of the transformation in physics, and still assuming the existence of ether and absolute space. 
+The Lorentz transformation, which is the correct transformation instead of Galilean transformation, is also formulated before SR. However Lorentz formulated the transformation in such a way to just make Maxwell’s equations invariant. The formulation of r in the transformation is based on the the difference in travel times for the two arms of the Michelson interferometer. In order to explain the failure of detecting ether, Lorentz developed his theory of ether with two hypotheses: the longitudinal contraction of rigid bodies and the slowing down of clocks (time dilation) when moving through the ether at a speed v by a factor of (1-v^2/c^2)^(1/2). It is obvious that although Lorentz transformation has a correct formulation along with the concept of length contraction and time dilation, it has been interpreted in a wrong way.
 
 The Lorentz transformation is actually the correct transformation for the principal of relativity, which should replace the Galilean transformation, and naturally expands the principal of relativity to Maxwell's equations. However Lorentz did not realize that. Although Lorentz transformation makes Maxwell's equations invariant, it cannot resolve the conflict with Newtonian mechanics.
 
+Actually Poincar´e proposed the same principals of relativity as Einstein's about a year earlier than Einstein.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Einstein derived The Lorentz transformation independently from Maxwell’s equations with the only assumption of the constant speed of light c. As a replacement of Galilean transformation, Lorentz transformation is the one for both Maxwell’s equations and modified Newtonian mechanics. The principal of relativity now is expanded to not only Newtonian mechanics, but also Maxwell’s equations, and further to all physics processes.
 
 
 ## References:
@@ -125,3 +115,4 @@ The Lorentz transformation is actually the correct transformation for the princi
 2. The Special Theory of Relativity by Vasant Natarajan and Diptiman Sen 
 3. Joe's Relatively Small Book of Special Relativity by Joseph Minahan
 4. Special Relativity by Philip Harris, University of Sussex
+5. Introduction to special relativity by Wolfgang Rindler, 1982.
