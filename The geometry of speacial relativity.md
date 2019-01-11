@@ -1,0 +1,4 @@
+## References:
+1. [The Geometry of Special Relativity](http://physics.oregonstate.edu/coursewikis/GSR/book/gsr/start) An online book, a good staring point. Suggest the rapidity is the hyperbolic angle between t and t prime axes (see fig. 5.2), but there is no proof at all.
+2. SPECIAL RELATIVITY MATH2410 by KOMISSAROV S.S, a good view of SR from math point view. Most commented book so far about Minkowski diagram. Discussion about the angle between t and t prime axes = theta, and  tan(theta) = v/c.
+3. Special Relativity and Linear Algebra by Corey Adams. Discussion about definition of rapidity related to Eigenvalues (p. 7). Need dig more to understand.
