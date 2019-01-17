@@ -1,4 +1,10 @@
+There is a large dierence in the way Einstein approached relativity in 1905 versus 1912. I will use the 1912 version a geometric spacetime approach, where the dierences between Newtonian physics and relativity are encoded into the geometry of how space and time are modeled.
+
+Ironically, Einstein, Lorentz, and many others, rejected out of hand the four-dimensional spacetime of Minkowski as being to complicated, and published a \more elementary" non-four-dimensional derivation
+of the equations for moving bodies in Euclidean space. However, it was Minkowski's four-dimensional framework that proved to be the basis for further developments in relativity. By 1912 Einstein used the Minkowski framework for his work, and it had become standard for even experimental physicists [6].
+
 ## References:
-1. [The Geometry of Special Relativity](http://physics.oregonstate.edu/coursewikis/GSR/book/gsr/start) An online book, a good staring point. Suggest the rapidity is the hyperbolic angle between t and t prime axes (see fig. 5.2), but there is no proof at all.
+1. [The Geometry of Special Relativity](http://physics.oregonstate.edu/coursewikis/GSR/book/gsr/start) An online book, a good staring point. Shows a simple way to derive the Lorentz transformation from time dilation. Suggest the rapidity is the hyperbolic angle between t and t prime axes (see fig. 5.2), but there is no proof at all.
 2. SPECIAL RELATIVITY MATH2410 by KOMISSAROV S.S, a good view of SR from math point view. Most commented book so far about Minkowski diagram. Discussion about the angle between t and t prime axes = theta, and  tan(theta) = v/c.
 3. Special Relativity and Linear Algebra by Corey Adams. Discussion about definition of rapidity related to Eigenvalues (p. 7). Need dig more to understand.
+4. A GEOMETRIC INTRODUCTION TO SPACETIME AND SPECIAL RELATIVITY by WILLIAM K. ZIEMER. dissected in details.
