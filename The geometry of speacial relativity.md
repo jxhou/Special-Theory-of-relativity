@@ -3,6 +3,7 @@ There is a large dierence in the way Einstein approached relativity in 1905 ver
 Ironically, Einstein, Lorentz, and many others, rejected out of hand the four-dimensional spacetime of Minkowski as being to complicated, and published a \more elementary" non-four-dimensional derivation
 of the equations for moving bodies in Euclidean space. However, it was Minkowski's four-dimensional framework that proved to be the basis for further developments in relativity. By 1912 Einstein used the Minkowski framework for his work, and it had become standard for even experimental physicists [6].
 
+[Through the Looking Glass: A glimpse of Euclid’s twin geometry: The Minkowski geometry](http://www.dynamicgeometry.com/Documents/advancedSketchGallery/minkowski/Minkowski_Overview.pdf)
 [Hyperbolic angle](https://en.wikipedia.org/wiki/Hyperbolic_angle#Imaginary_circular_angle)
 [Rapidity](https://en.wikipedia.org/wiki/Rapidity)
 [Minkowski diagram](https://en.wikipedia.org/wiki/Minkowski_diagram)
