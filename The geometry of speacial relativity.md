@@ -6,6 +6,7 @@ of the equations for moving bodies in Euclidean space. However, it was Minkowski
 [Through the Looking Glass: A glimpse of Euclid’s twin geometry: The Minkowski geometry](http://www.dynamicgeometry.com/Documents/advancedSketchGallery/minkowski/Minkowski_Overview.pdf)
 [Hyperbolic angle](https://en.wikipedia.org/wiki/Hyperbolic_angle#Imaginary_circular_angle)
 [Hyperbolic function](https://en.wikipedia.org/wiki/Hyperbolic_function)
+[Inverse hyperbolic functions](https://en.wikipedia.org/wiki/Inverse_hyperbolic_functions)
 [Hyperbolic geometry](https://en.wikipedia.org/wiki/Hyperbolic_geometry)
 [Rapidity](https://en.wikipedia.org/wiki/Rapidity)
 [Minkowski diagram](https://en.wikipedia.org/wiki/Minkowski_diagram)
