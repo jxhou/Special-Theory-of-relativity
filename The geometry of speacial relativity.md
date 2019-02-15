@@ -19,3 +19,6 @@ of the equations for moving bodies in Euclidean space. However, it was Minkowski
 2. SPECIAL RELATIVITY MATH2410 by KOMISSAROV S.S, a good view of SR from math point view. Most commented book so far about Minkowski diagram. Discussion about the angle between t and t prime axes = theta, and  tan(theta) = v/c.
 3. Special Relativity and Linear Algebra by Corey Adams. Discussion about definition of rapidity related to Eigenvalues (p. 7). Need dig more to understand.
 4. A GEOMETRIC INTRODUCTION TO SPACETIME AND SPECIAL RELATIVITY by WILLIAM K. ZIEMER. dissected in details.
+5. The Geometry of Relativistic Spacetime: from Euclid's Geometry to
+Minkowski's Spacetime by Jacques Bros
+Have studied in detail. This is a purely geometric approach to the SR. Starts with a few foundation postulates to describe the spacetime, from light-cone, to conjugate axes of moving frame, parallelogram of light rays, all anniversary events follow a hyperbola indicating a Lorentz transformation result. The Lorentz transformation is actually derived from the geometry of spacetime, which is unique approach. But missing information explaining hyperbolic angle.
