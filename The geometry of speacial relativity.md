@@ -10,6 +10,7 @@ of the equations for moving bodies in Euclidean space. However, it was Minkowski
 [Hyperbolic geometry](https://en.wikipedia.org/wiki/Hyperbolic_geometry)
 [Rapidity](https://en.wikipedia.org/wiki/Rapidity)
 [Minkowski diagram](https://en.wikipedia.org/wiki/Minkowski_diagram)
+[Four-vector](https://en.wikipedia.org/wiki/Four-vector)
 [Four-velocity](https://en.wikipedia.org/wiki/Four-velocity)
 
 [Foundations by Greg Egan](http://www.gregegan.net/FOUNDATIONS/index.html#CONTENTS)
