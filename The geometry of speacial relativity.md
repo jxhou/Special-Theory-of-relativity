@@ -10,6 +10,7 @@ of the equations for moving bodies in Euclidean space. However, it was Minkowski
 [Hyperbolic geometry](https://en.wikipedia.org/wiki/Hyperbolic_geometry)
 [Rapidity](https://en.wikipedia.org/wiki/Rapidity)
 [Minkowski diagram](https://en.wikipedia.org/wiki/Minkowski_diagram)
+[Four-velocity](https://en.wikipedia.org/wiki/Four-velocity)
 
 ## References:
 1. [The Geometry of Special Relativity](http://physics.oregonstate.edu/coursewikis/GSR/book/gsr/start) An online book, a good staring point. Shows a simple way to derive the Lorentz transformation from time dilation. Suggest the rapidity is the hyperbolic angle between t and t prime axes (see fig. 5.2), but there is no proof at all.
