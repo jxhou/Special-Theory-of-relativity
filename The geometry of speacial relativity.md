@@ -15,6 +15,7 @@ of the equations for moving bodies in Euclidean space. However, it was Minkowski
 
 [Foundations by Greg Egan](http://www.gregegan.net/FOUNDATIONS/index.html#CONTENTS)
 [Special Relativity](http://www.gregegan.net/FOUNDATIONS/01/found01.html)
+How to derive the Lorentz transformation geometrically starting from Euclidean geometry to hyperbolic geometry. One of the best discussions.
 
 ## References:
 1. [The Geometry of Special Relativity](http://physics.oregonstate.edu/coursewikis/GSR/book/gsr/start) An online book, a good staring point. Shows a simple way to derive the Lorentz transformation from time dilation. Suggest the rapidity is the hyperbolic angle between t and t prime axes (see fig. 5.2), but there is no proof at all.
