@@ -15,7 +15,19 @@ of the equations for moving bodies in Euclidean space. However, it was Minkowski
 
 [Foundations by Greg Egan](http://www.gregegan.net/FOUNDATIONS/index.html#CONTENTS)
 [Special Relativity](http://www.gregegan.net/FOUNDATIONS/01/found01.html)
-How to derive the Lorentz transformation geometrically starting from Euclidean geometry to hyperbolic geometry. One of the best discussions. Also an interesting discussion about time dilation, with my most detailed annotation comments about conversion between space and time.
+Start with Euclidean circular geometry, Pythagoras’s theorem, the Euclidean matrix for the dot product to show the properties of symmetric, symmetric etc, which can then be applied to hyperbolic matrix. Project a vector to another unit vector to get length.  conjugated vectors are perpendicular to each other.
+
+Then in spacetime geometry which emulates the Euclidean geometry, has it own distance invariant in hyperbolic matrix, or Hyperbolic Pythagoras’s theorem.
+
+Any time-like vector is called "proper time" and can be time axis for one observer; and any space-like vector is called "proper distance" and can be a space axis for one observer. The distance invariant is an important concept here. This actually hints the Lorentz transformation between reference frames.
+
+Propose a method of coordinate transformation by projecting one spacetime vector onto another, which is the method developed in Euclidean geometry. More specifically, project a vector to other set of conjugate axes (time and space) in perpendicular way in hyperbolic sense, which is virtually Lorentz transformation in geometry.
+
+Derive the Lorentz transformation geometrically with the same concepts derived in Euclidean geometry. 
+
+Propose an interesting example of angled walkers as an emulation of Time dilation in spacetime, with my most detailed annotation comments about conversion between space and time, and explanation about twin paradox. 
+
+One of most insightful discussion about geometric interpretation of SR.
 
 ## References:
 1. [The Geometry of Special Relativity](http://physics.oregonstate.edu/coursewikis/GSR/book/gsr/start) An online book, a good staring point. Shows a simple way to derive the Lorentz transformation from time dilation. Suggest the rapidity is the hyperbolic angle between t and t prime axes (see fig. 5.2), but there is no proof at all.
